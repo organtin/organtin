@@ -6,9 +6,9 @@ I work for the <a href='https://cms.cern/detector'>CMS experiment</a> at CERN an
 
 My activity is now focused on physics education. 
 
-1. ''Fondamenti di Fisica'', by J. Walker, is the italian edition of a physics textbook by Walker. I reviewed it added videolectures about home made physics experiments using Arduino or smartphones. In the new italian edition, in particular, I paid much attention to safety aspects and gender equality.
-2. ''Fisica con Arduino'', edited by Zanichelli, is a textbook for schools in which I describes simple experiments to be done with Arduino.
-3. Currently working on a new textbook for university courses. More details follow as soon as possible.
+1. [''Fondamenti di Fisica''](https://www.pearson.it/opera/pearson/0-7110-fondamenti_di_fisica?iesError=login_required&iesErrorDescription=Login+required), by J. Walker, is the italian edition of a physics textbook by Walker. I reviewed it added videolectures about home made physics experiments using Arduino or smartphones. In the new italian edition, in particular, I paid much attention to safety aspects and gender equality.
+2. [''Fisica con Arduino''](https://online.scuola.zanichelli.it/fisicaconarduino/), Zanichelli, is a textbook for schools in which I describes simple experiments to be done with Arduino.
+3. [''Physics experiments with Arduino and smartphones''](https://www.springer.com/gp/book/9783030651398), published by Springer, is a university textbook about laboratory practice, statistical data analysis and introduces to python programming.
 
 My interests are in the following topics.
 
